@@ -1,6 +1,6 @@
 # CRUDWebApliccation
 
-Small Web Application
+Small CRUD Web Application
 
 
 Credits @wailbyati
